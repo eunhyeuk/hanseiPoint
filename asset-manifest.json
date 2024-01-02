@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanseiPoint/static/css/main.e7430bf7.css",
+    "main.js": "/hanseiPoint/static/js/main.fe4157c4.js",
+    "static/js/787.302f5e9b.chunk.js": "/hanseiPoint/static/js/787.302f5e9b.chunk.js",
+    "index.html": "/hanseiPoint/index.html",
+    "main.e7430bf7.css.map": "/hanseiPoint/static/css/main.e7430bf7.css.map",
+    "main.fe4157c4.js.map": "/hanseiPoint/static/js/main.fe4157c4.js.map",
+    "787.302f5e9b.chunk.js.map": "/hanseiPoint/static/js/787.302f5e9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7430bf7.css",
+    "static/js/main.fe4157c4.js"
+  ]
+}
